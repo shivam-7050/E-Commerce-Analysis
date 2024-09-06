@@ -14,7 +14,6 @@
 8. [Assumptions](#assumptions)
 9. [Limitations](#limitations)
 10. [Future Improvements](#future-improvements)
-11. [Contact Information](#contact-information)
 
 
 
