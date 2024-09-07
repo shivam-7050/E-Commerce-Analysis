@@ -1,4 +1,4 @@
-# Sales-Dashboard
+# E-Commerce-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/cfd3c16e-14aa-43b0-b11f-830b5a5bf39b/reports/be4ebbad-7322-471b-9deb-3ac9fc63ec1f/d7f98bcd781b8c1e3d17?experience=power-bi
 
